@@ -20,6 +20,7 @@
     "importHelpers": true,
     "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true,
+    "skipLibCheck": true,
     // "removeComments": false,
   },
   "exclude": [
